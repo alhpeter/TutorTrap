@@ -1,0 +1,18 @@
+TutorTrap submission documentation bundle
+
+Core files:
+- README.md
+- requirements.txt
+- .env.example
+- .gitignore
+
+docs/:
+- SETUP.md
+- TROUBLESHOOTING.md
+- DEMO_SCRIPT.md
+- NOTION_TEMPLATE.md
+- HACKATHON_SLIDES.md
+- ARCHITECTURE.md
+- SUBMISSION_CHECKLIST.md
+- PROJECT_COPY.md
+- DEMO_DATA.md
