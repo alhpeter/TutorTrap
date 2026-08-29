@@ -11,7 +11,7 @@ Instead of stopping at **right/wrong**, TutorTrap asks a more useful question:
 The prototype creates a plausible but incorrect physics claim, asks the learner to reason about it, diagnoses the underlying misconception from their natural-language explanation, generates a targeted follow-up challenge, and checks whether the learner's reasoning recovers.
 
 ## Notion
-https://app.notion.com/p/TutorTrap-3cb62c13fa84809fb251f44c9c804224?source=copy_link
+[https://app.notion.com/p/TutorTrap-3cb62c13fa84809fb251f44c9c804224?source=copy_link](https://season-shrimp-22c.notion.site/TutorTrap-3cb62c13fa84809fb251f44c9c804224?pvs=73)
 
 ## Video
 https://vimeo.com/1222289326?share=copy&fl=sv&fe=ci
