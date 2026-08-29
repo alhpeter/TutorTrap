@@ -13,6 +13,9 @@ The prototype creates a plausible but incorrect physics claim, asks the learner 
 ## Notion
 https://app.notion.com/p/TutorTrap-3cb62c13fa84809fb251f44c9c804224?source=copy_link
 
+## Video
+https://vimeo.com/1222289326?share=copy&fl=sv&fe=ci
+
 ### The core loop
 
 ```text
